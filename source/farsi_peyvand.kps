@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>17.0.331.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">farsi_peyvand</Name>
+    <Copyright URL="">Copyright © arash_safari</Copyright>
+    <Author URL="">arash_safari</Author>
+    <Description URL="">Farsi Peyvand keyboard
+Description
+Farsi Payvand: Connecting You to a Seamless Persian Typing Experience
+
+Farsi Payvand is a modern Persian orthography keyboard designed to bring fluidity, precision, and ease to Persian typing. Named after the Persian word for "connection," Payvand bridges traditional Persian script with contemporary typing needs, allowing users to write fluently without the constraints of standard keyboards.
+
+This keyboard layout arranges Persian characters phonetically on a Latin-based layout, making it intuitive for both native speakers and learners of Persian. By positioning each character according to its closest Latin phonetic equivalent, Farsi Payvand enables faster, more accurate typing while preserving the natural flow of the language.
+
+Links
+Keyboard Homepage: https://keyman.com/keyboards/farsi_peyvand
+
+Copyright
+See LICENSE.md
+
+Supported Platforms
+Windows
+macOS
+Linux
+Web
+iPhone
+iPad
+Android phone
+Android tablet
+Mobile devices
+Desktop devices
+Tablet devices</Description>
+    <Version URL=""></Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\farsi_peyvand.kmx</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\farsi_peyvand.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\farsi_peyvand.kvk</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>farsi_peyvand</Name>
+      <ID>farsi_peyvand</ID>
+      <Version>1.0</Version>
+      <Languages>
+        <Language ID="fa-Latn-IR">Persian</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
